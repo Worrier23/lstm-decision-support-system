@@ -1,8 +1,7 @@
 
 # LSTM Tabanlı Karar Destek Sistemi
 
-Bu proje, zaman serisi verileri kullanarak geleceğe yönelik tahminler üretmek amacıyla geliştirilmiş bir derin öğrenme uygulamasıdır.
-📈 LSTM-Based Stock Price Prediction: THY (THYAO.IS)Bu proje, Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği Yüksek Lisans Programı Derin Öğrenme dersi final ödevi kapsamında geliştirilmiştir. Bir Database Specialist bakış açısıyla, ham borsa verilerinin temizlenmesi, zenginleştirilmesi ve LSTM mimarisi ile modellenmesi sürecini içerir.
+📈 LSTM-Based Stock Price Prediction: THY (THYAO.IS) Bu proje, Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği Yüksek Lisans Programı Derin Öğrenme dersi final ödevi kapsamında geliştirilmiştir. Bir Database Specialist bakış açısıyla, ham borsa verilerinin temizlenmesi, zenginleştirilmesi ve LSTM mimarisi ile modellenmesi sürecini içerir.
 
 🚀 Proje Özeti ve Amaç Çalışmanın temel amacı, borsa verilerindeki doğrusal olmayan ve karmaşık hareketleri derin öğrenme yöntemleriyle modelleyerek bir Karar Destek Sistemi oluşturmaktır. THY (THYAO.IS) hisse senedinin 5 yıllık verileri üzerinde trend analizi ve gelecek fiyat tahmini yapılmıştır.
 
